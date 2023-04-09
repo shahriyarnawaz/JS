@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Windows/System32/my-app/public"
+		},
+		{
+			"path": "../../../../../Windows/System32/my-app/src"
+		},
+		{
+			"path": "../../../../../Windows/System32/my-app/node_modules"
+		}
+	]
+}
